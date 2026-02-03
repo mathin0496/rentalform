@@ -1,0 +1,7 @@
+{
+  "name": "MapleLeaf Realty AI",
+  "description": "An interactive Canadian real estate platform featuring a dynamic multi-step inquiry form and a specialized Gemini-powered real estate chatbot.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
