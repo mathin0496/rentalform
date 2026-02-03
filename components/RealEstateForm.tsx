@@ -13,7 +13,8 @@ const STEPS = [
 
 // Placeholder for your n8n webhook URL
 //const N8N_WEBHOOK_URL = 'https://abdulmathin.app.n8n.cloud/webhook-test/19cdaba3-dffa-419d-9bdb-ddf271df0738'; //testing url
-const N8N_WEBHOOK_URL = 'https://abdulmathin.app.n8n.cloud/webhook-test/19cdaba3-dffa-419d-9bdb-ddf271df0738';
+//const N8N_WEBHOOK_URL = 'https://abdulmathin.app.n8n.cloud/webhook-test/19cdaba3-dffa-419d-9bdb-ddf271df0738';
+const N8N_WEBHOOK_URL = 'https://abdulmathin.app.n8n.cloud/webhook-test/apply';
 
 const RealEstateForm: React.FC = () => {
   const [step, setStep] = useState(0);
